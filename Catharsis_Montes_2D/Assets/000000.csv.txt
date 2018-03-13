@@ -1,0 +1,445 @@
+Ref_Date,GEO,COMMOD,Vector,Coordinate,Value
+Jan-81,Canada,"Meat, fish and dairy products",v1574569,1.1,60.9
+Feb-81,Canada,"Meat, fish and dairy products",v1574569,1.1,61.2
+Mar-81,Canada,"Meat, fish and dairy products",v1574569,1.1,60.6
+Apr-81,Canada,"Meat, fish and dairy products",v1574569,1.1,61.3
+May-81,Canada,"Meat, fish and dairy products",v1574569,1.1,61.5
+Jun-81,Canada,"Meat, fish and dairy products",v1574569,1.1,63
+Jul-81,Canada,"Meat, fish and dairy products",v1574569,1.1,63.5
+Aug-81,Canada,"Meat, fish and dairy products",v1574569,1.1,64.1
+Sep-81,Canada,"Meat, fish and dairy products",v1574569,1.1,64.2
+Oct-81,Canada,"Meat, fish and dairy products",v1574569,1.1,63.9
+Nov-81,Canada,"Meat, fish and dairy products",v1574569,1.1,63.2
+Dec-81,Canada,"Meat, fish and dairy products",v1574569,1.1,62.8
+Jan-82,Canada,"Meat, fish and dairy products",v1574569,1.1,62.7
+Feb-82,Canada,"Meat, fish and dairy products",v1574569,1.1,63.5
+Mar-82,Canada,"Meat, fish and dairy products",v1574569,1.1,64.2
+Apr-82,Canada,"Meat, fish and dairy products",v1574569,1.1,66
+May-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68.3
+Jun-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68.9
+Jul-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68.6
+Aug-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68.8
+Sep-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68.8
+Oct-82,Canada,"Meat, fish and dairy products",v1574569,1.1,68
+Nov-82,Canada,"Meat, fish and dairy products",v1574569,1.1,67.1
+Dec-82,Canada,"Meat, fish and dairy products",v1574569,1.1,66.8
+Jan-83,Canada,"Meat, fish and dairy products",v1574569,1.1,66.9
+Feb-83,Canada,"Meat, fish and dairy products",v1574569,1.1,68
+Mar-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.5
+Apr-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.9
+May-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.9
+Jun-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.9
+Jul-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.3
+Aug-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.7
+Sep-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.8
+Oct-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67
+Nov-83,Canada,"Meat, fish and dairy products",v1574569,1.1,67.2
+Dec-83,Canada,"Meat, fish and dairy products",v1574569,1.1,68.1
+Jan-84,Canada,"Meat, fish and dairy products",v1574569,1.1,69.2
+Feb-84,Canada,"Meat, fish and dairy products",v1574569,1.1,69.6
+Mar-84,Canada,"Meat, fish and dairy products",v1574569,1.1,70
+Apr-84,Canada,"Meat, fish and dairy products",v1574569,1.1,70.7
+May-84,Canada,"Meat, fish and dairy products",v1574569,1.1,71.1
+Jun-84,Canada,"Meat, fish and dairy products",v1574569,1.1,71.6
+Jul-84,Canada,"Meat, fish and dairy products",v1574569,1.1,72.3
+Aug-84,Canada,"Meat, fish and dairy products",v1574569,1.1,72.8
+Sep-84,Canada,"Meat, fish and dairy products",v1574569,1.1,72.3
+Oct-84,Canada,"Meat, fish and dairy products",v1574569,1.1,71.1
+Nov-84,Canada,"Meat, fish and dairy products",v1574569,1.1,71.6
+Dec-84,Canada,"Meat, fish and dairy products",v1574569,1.1,71.9
+Jan-85,Canada,"Meat, fish and dairy products",v1574569,1.1,72
+Feb-85,Canada,"Meat, fish and dairy products",v1574569,1.1,72.4
+Mar-85,Canada,"Meat, fish and dairy products",v1574569,1.1,72.4
+Apr-85,Canada,"Meat, fish and dairy products",v1574569,1.1,71.1
+May-85,Canada,"Meat, fish and dairy products",v1574569,1.1,71.3
+Jun-85,Canada,"Meat, fish and dairy products",v1574569,1.1,71.9
+Jul-85,Canada,"Meat, fish and dairy products",v1574569,1.1,72.2
+Aug-85,Canada,"Meat, fish and dairy products",v1574569,1.1,71.1
+Sep-85,Canada,"Meat, fish and dairy products",v1574569,1.1,70.9
+Oct-85,Canada,"Meat, fish and dairy products",v1574569,1.1,71.8
+Nov-85,Canada,"Meat, fish and dairy products",v1574569,1.1,72.7
+Dec-85,Canada,"Meat, fish and dairy products",v1574569,1.1,73.6
+Jan-86,Canada,"Meat, fish and dairy products",v1574569,1.1,73.2
+Feb-86,Canada,"Meat, fish and dairy products",v1574569,1.1,72.3
+Mar-86,Canada,"Meat, fish and dairy products",v1574569,1.1,72.1
+Apr-86,Canada,"Meat, fish and dairy products",v1574569,1.1,72.1
+May-86,Canada,"Meat, fish and dairy products",v1574569,1.1,72.3
+Jun-86,Canada,"Meat, fish and dairy products",v1574569,1.1,74
+Jul-86,Canada,"Meat, fish and dairy products",v1574569,1.1,76.1
+Aug-86,Canada,"Meat, fish and dairy products",v1574569,1.1,78
+Sep-86,Canada,"Meat, fish and dairy products",v1574569,1.1,78.6
+Oct-86,Canada,"Meat, fish and dairy products",v1574569,1.1,78.4
+Nov-86,Canada,"Meat, fish and dairy products",v1574569,1.1,78.9
+Dec-86,Canada,"Meat, fish and dairy products",v1574569,1.1,78.6
+Jan-87,Canada,"Meat, fish and dairy products",v1574569,1.1,78
+Feb-87,Canada,"Meat, fish and dairy products",v1574569,1.1,77.2
+Mar-87,Canada,"Meat, fish and dairy products",v1574569,1.1,77.2
+Apr-87,Canada,"Meat, fish and dairy products",v1574569,1.1,77.2
+May-87,Canada,"Meat, fish and dairy products",v1574569,1.1,79
+Jun-87,Canada,"Meat, fish and dairy products",v1574569,1.1,79.5
+Jul-87,Canada,"Meat, fish and dairy products",v1574569,1.1,79.7
+Aug-87,Canada,"Meat, fish and dairy products",v1574569,1.1,79.9
+Sep-87,Canada,"Meat, fish and dairy products",v1574569,1.1,80.2
+Oct-87,Canada,"Meat, fish and dairy products",v1574569,1.1,79.4
+Nov-87,Canada,"Meat, fish and dairy products",v1574569,1.1,78.8
+Dec-87,Canada,"Meat, fish and dairy products",v1574569,1.1,78.4
+Jan-88,Canada,"Meat, fish and dairy products",v1574569,1.1,78.3
+Feb-88,Canada,"Meat, fish and dairy products",v1574569,1.1,78.6
+Mar-88,Canada,"Meat, fish and dairy products",v1574569,1.1,78.5
+Apr-88,Canada,"Meat, fish and dairy products",v1574569,1.1,78.7
+May-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.2
+Jun-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.7
+Jul-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.1
+Aug-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.7
+Sep-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.7
+Oct-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.4
+Nov-88,Canada,"Meat, fish and dairy products",v1574569,1.1,79.2
+Dec-88,Canada,"Meat, fish and dairy products",v1574569,1.1,78.8
+Jan-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.5
+Feb-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.5
+Mar-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.4
+Apr-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.3
+May-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.6
+Jun-89,Canada,"Meat, fish and dairy products",v1574569,1.1,80
+Jul-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.9
+Aug-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.8
+Sep-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.6
+Oct-89,Canada,"Meat, fish and dairy products",v1574569,1.1,79.8
+Nov-89,Canada,"Meat, fish and dairy products",v1574569,1.1,80.1
+Dec-89,Canada,"Meat, fish and dairy products",v1574569,1.1,80.4
+Jan-90,Canada,"Meat, fish and dairy products",v1574569,1.1,80.5
+Feb-90,Canada,"Meat, fish and dairy products",v1574569,1.1,80.6
+Mar-90,Canada,"Meat, fish and dairy products",v1574569,1.1,80.8
+Apr-90,Canada,"Meat, fish and dairy products",v1574569,1.1,81.1
+May-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.3
+Jun-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.5
+Jul-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.4
+Aug-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.4
+Sep-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.5
+Oct-90,Canada,"Meat, fish and dairy products",v1574569,1.1,83
+Nov-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.9
+Dec-90,Canada,"Meat, fish and dairy products",v1574569,1.1,82.8
+Jan-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83.1
+Feb-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83.4
+Mar-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83.3
+Apr-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83
+May-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83.4
+Jun-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83.5
+Jul-91,Canada,"Meat, fish and dairy products",v1574569,1.1,83
+Aug-91,Canada,"Meat, fish and dairy products",v1574569,1.1,82.9
+Sep-91,Canada,"Meat, fish and dairy products",v1574569,1.1,82.4
+Oct-91,Canada,"Meat, fish and dairy products",v1574569,1.1,82.1
+Nov-91,Canada,"Meat, fish and dairy products",v1574569,1.1,81.8
+Dec-91,Canada,"Meat, fish and dairy products",v1574569,1.1,81.7
+Jan-92,Canada,"Meat, fish and dairy products",v1574569,1.1,81.1
+Feb-92,Canada,"Meat, fish and dairy products",v1574569,1.1,82.7
+Mar-92,Canada,"Meat, fish and dairy products",v1574569,1.1,82.2
+Apr-92,Canada,"Meat, fish and dairy products",v1574569,1.1,82.2
+May-92,Canada,"Meat, fish and dairy products",v1574569,1.1,83.2
+Jun-92,Canada,"Meat, fish and dairy products",v1574569,1.1,83.8
+Jul-92,Canada,"Meat, fish and dairy products",v1574569,1.1,83.2
+Aug-92,Canada,"Meat, fish and dairy products",v1574569,1.1,84.8
+Sep-92,Canada,"Meat, fish and dairy products",v1574569,1.1,85
+Oct-92,Canada,"Meat, fish and dairy products",v1574569,1.1,84.9
+Nov-92,Canada,"Meat, fish and dairy products",v1574569,1.1,85.5
+Dec-92,Canada,"Meat, fish and dairy products",v1574569,1.1,85.7
+Jan-93,Canada,"Meat, fish and dairy products",v1574569,1.1,86.6
+Feb-93,Canada,"Meat, fish and dairy products",v1574569,1.1,86.7
+Mar-93,Canada,"Meat, fish and dairy products",v1574569,1.1,87
+Apr-93,Canada,"Meat, fish and dairy products",v1574569,1.1,87.7
+May-93,Canada,"Meat, fish and dairy products",v1574569,1.1,88.7
+Jun-93,Canada,"Meat, fish and dairy products",v1574569,1.1,88.1
+Jul-93,Canada,"Meat, fish and dairy products",v1574569,1.1,88.4
+Aug-93,Canada,"Meat, fish and dairy products",v1574569,1.1,89.4
+Sep-93,Canada,"Meat, fish and dairy products",v1574569,1.1,88.8
+Oct-93,Canada,"Meat, fish and dairy products",v1574569,1.1,89.4
+Nov-93,Canada,"Meat, fish and dairy products",v1574569,1.1,89.3
+Dec-93,Canada,"Meat, fish and dairy products",v1574569,1.1,89.1
+Jan-94,Canada,"Meat, fish and dairy products",v1574569,1.1,88.9
+Feb-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.3
+Mar-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.9
+Apr-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.6
+May-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.4
+Jun-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.1
+Jul-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.3
+Aug-94,Canada,"Meat, fish and dairy products",v1574569,1.1,91.6
+Sep-94,Canada,"Meat, fish and dairy products",v1574569,1.1,91.4
+Oct-94,Canada,"Meat, fish and dairy products",v1574569,1.1,90.9
+Nov-94,Canada,"Meat, fish and dairy products",v1574569,1.1,89.4
+Dec-94,Canada,"Meat, fish and dairy products",v1574569,1.1,88.9
+Jan-95,Canada,"Meat, fish and dairy products",v1574569,1.1,89.7
+Feb-95,Canada,"Meat, fish and dairy products",v1574569,1.1,92.2
+Mar-95,Canada,"Meat, fish and dairy products",v1574569,1.1,92
+Apr-95,Canada,"Meat, fish and dairy products",v1574569,1.1,91.4
+May-95,Canada,"Meat, fish and dairy products",v1574569,1.1,91.6
+Jun-95,Canada,"Meat, fish and dairy products",v1574569,1.1,91.5
+Jul-95,Canada,"Meat, fish and dairy products",v1574569,1.1,92.5
+Aug-95,Canada,"Meat, fish and dairy products",v1574569,1.1,93
+Sep-95,Canada,"Meat, fish and dairy products",v1574569,1.1,94.5
+Oct-95,Canada,"Meat, fish and dairy products",v1574569,1.1,93.6
+Nov-95,Canada,"Meat, fish and dairy products",v1574569,1.1,93.6
+Dec-95,Canada,"Meat, fish and dairy products",v1574569,1.1,94.4
+Jan-96,Canada,"Meat, fish and dairy products",v1574569,1.1,94
+Feb-96,Canada,"Meat, fish and dairy products",v1574569,1.1,94.2
+Mar-96,Canada,"Meat, fish and dairy products",v1574569,1.1,94.5
+Apr-96,Canada,"Meat, fish and dairy products",v1574569,1.1,95.6
+May-96,Canada,"Meat, fish and dairy products",v1574569,1.1,97.7
+Jun-96,Canada,"Meat, fish and dairy products",v1574569,1.1,96.6
+Jul-96,Canada,"Meat, fish and dairy products",v1574569,1.1,97.7
+Aug-96,Canada,"Meat, fish and dairy products",v1574569,1.1,100.6
+Sep-96,Canada,"Meat, fish and dairy products",v1574569,1.1,98.7
+Oct-96,Canada,"Meat, fish and dairy products",v1574569,1.1,98.9
+Nov-96,Canada,"Meat, fish and dairy products",v1574569,1.1,97.5
+Dec-96,Canada,"Meat, fish and dairy products",v1574569,1.1,98.6
+Jan-97,Canada,"Meat, fish and dairy products",v1574569,1.1,98.7
+Feb-97,Canada,"Meat, fish and dairy products",v1574569,1.1,98.7
+Mar-97,Canada,"Meat, fish and dairy products",v1574569,1.1,99.3
+Apr-97,Canada,"Meat, fish and dairy products",v1574569,1.1,100.9
+May-97,Canada,"Meat, fish and dairy products",v1574569,1.1,101.7
+Jun-97,Canada,"Meat, fish and dairy products",v1574569,1.1,101.1
+Jul-97,Canada,"Meat, fish and dairy products",v1574569,1.1,101.1
+Aug-97,Canada,"Meat, fish and dairy products",v1574569,1.1,101.5
+Sep-97,Canada,"Meat, fish and dairy products",v1574569,1.1,100.5
+Oct-97,Canada,"Meat, fish and dairy products",v1574569,1.1,99.1
+Nov-97,Canada,"Meat, fish and dairy products",v1574569,1.1,99.3
+Dec-97,Canada,"Meat, fish and dairy products",v1574569,1.1,98.2
+Jan-98,Canada,"Meat, fish and dairy products",v1574569,1.1,98
+Feb-98,Canada,"Meat, fish and dairy products",v1574569,1.1,98
+Mar-98,Canada,"Meat, fish and dairy products",v1574569,1.1,97.7
+Apr-98,Canada,"Meat, fish and dairy products",v1574569,1.1,98
+May-98,Canada,"Meat, fish and dairy products",v1574569,1.1,99.3
+Jun-98,Canada,"Meat, fish and dairy products",v1574569,1.1,99.5
+Jul-98,Canada,"Meat, fish and dairy products",v1574569,1.1,99.7
+Aug-98,Canada,"Meat, fish and dairy products",v1574569,1.1,100.4
+Sep-98,Canada,"Meat, fish and dairy products",v1574569,1.1,99.7
+Oct-98,Canada,"Meat, fish and dairy products",v1574569,1.1,98.5
+Nov-98,Canada,"Meat, fish and dairy products",v1574569,1.1,98.2
+Dec-98,Canada,"Meat, fish and dairy products",v1574569,1.1,97.5
+Jan-99,Canada,"Meat, fish and dairy products",v1574569,1.1,98.7
+Feb-99,Canada,"Meat, fish and dairy products",v1574569,1.1,99.6
+Mar-99,Canada,"Meat, fish and dairy products",v1574569,1.1,98.6
+Apr-99,Canada,"Meat, fish and dairy products",v1574569,1.1,99.3
+May-99,Canada,"Meat, fish and dairy products",v1574569,1.1,100.2
+Jun-99,Canada,"Meat, fish and dairy products",v1574569,1.1,99.8
+Jul-99,Canada,"Meat, fish and dairy products",v1574569,1.1,100.2
+Aug-99,Canada,"Meat, fish and dairy products",v1574569,1.1,102.7
+Sep-99,Canada,"Meat, fish and dairy products",v1574569,1.1,101.5
+Oct-99,Canada,"Meat, fish and dairy products",v1574569,1.1,101.6
+Nov-99,Canada,"Meat, fish and dairy products",v1574569,1.1,100.6
+Dec-99,Canada,"Meat, fish and dairy products",v1574569,1.1,101.9
+Jan-00,Canada,"Meat, fish and dairy products",v1574569,1.1,102.8
+Feb-00,Canada,"Meat, fish and dairy products",v1574569,1.1,103
+Mar-00,Canada,"Meat, fish and dairy products",v1574569,1.1,103.8
+Apr-00,Canada,"Meat, fish and dairy products",v1574569,1.1,105.3
+May-00,Canada,"Meat, fish and dairy products",v1574569,1.1,105.9
+Jun-00,Canada,"Meat, fish and dairy products",v1574569,1.1,106.3
+Jul-00,Canada,"Meat, fish and dairy products",v1574569,1.1,106.2
+Aug-00,Canada,"Meat, fish and dairy products",v1574569,1.1,106.1
+Sep-00,Canada,"Meat, fish and dairy products",v1574569,1.1,103.8
+Oct-00,Canada,"Meat, fish and dairy products",v1574569,1.1,104
+Nov-00,Canada,"Meat, fish and dairy products",v1574569,1.1,103.8
+Dec-00,Canada,"Meat, fish and dairy products",v1574569,1.1,103.6
+Jan-01,Canada,"Meat, fish and dairy products",v1574569,1.1,105
+Feb-01,Canada,"Meat, fish and dairy products",v1574569,1.1,106.4
+Mar-01,Canada,"Meat, fish and dairy products",v1574569,1.1,107.9
+Apr-01,Canada,"Meat, fish and dairy products",v1574569,1.1,109.6
+May-01,Canada,"Meat, fish and dairy products",v1574569,1.1,108.2
+Jun-01,Canada,"Meat, fish and dairy products",v1574569,1.1,108.2
+Jul-01,Canada,"Meat, fish and dairy products",v1574569,1.1,109.6
+Aug-01,Canada,"Meat, fish and dairy products",v1574569,1.1,109.8
+Sep-01,Canada,"Meat, fish and dairy products",v1574569,1.1,108.5
+Oct-01,Canada,"Meat, fish and dairy products",v1574569,1.1,107.6
+Nov-01,Canada,"Meat, fish and dairy products",v1574569,1.1,105.9
+Dec-01,Canada,"Meat, fish and dairy products",v1574569,1.1,106
+Jan-02,Canada,"Meat, fish and dairy products",v1574569,1.1,106.1
+Feb-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.6
+Mar-02,Canada,"Meat, fish and dairy products",v1574569,1.1,108.1
+Apr-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.3
+May-02,Canada,"Meat, fish and dairy products",v1574569,1.1,106.4
+Jun-02,Canada,"Meat, fish and dairy products",v1574569,1.1,106.3
+Jul-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.8
+Aug-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.5
+Sep-02,Canada,"Meat, fish and dairy products",v1574569,1.1,106.2
+Oct-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.6
+Nov-02,Canada,"Meat, fish and dairy products",v1574569,1.1,107.1
+Dec-02,Canada,"Meat, fish and dairy products",v1574569,1.1,108.7
+Jan-03,Canada,"Meat, fish and dairy products",v1574569,1.1,109.5
+Feb-03,Canada,"Meat, fish and dairy products",v1574569,1.1,110.1
+Mar-03,Canada,"Meat, fish and dairy products",v1574569,1.1,110.8
+Apr-03,Canada,"Meat, fish and dairy products",v1574569,1.1,110.2
+May-03,Canada,"Meat, fish and dairy products",v1574569,1.1,110.2
+Jun-03,Canada,"Meat, fish and dairy products",v1574569,1.1,109.6
+Jul-03,Canada,"Meat, fish and dairy products",v1574569,1.1,106.9
+Aug-03,Canada,"Meat, fish and dairy products",v1574569,1.1,105.4
+Sep-03,Canada,"Meat, fish and dairy products",v1574569,1.1,106.6
+Oct-03,Canada,"Meat, fish and dairy products",v1574569,1.1,106.8
+Nov-03,Canada,"Meat, fish and dairy products",v1574569,1.1,107.5
+Dec-03,Canada,"Meat, fish and dairy products",v1574569,1.1,108
+Jan-04,Canada,"Meat, fish and dairy products",v1574569,1.1,106.8
+Feb-04,Canada,"Meat, fish and dairy products",v1574569,1.1,109.1
+Mar-04,Canada,"Meat, fish and dairy products",v1574569,1.1,110.3
+Apr-04,Canada,"Meat, fish and dairy products",v1574569,1.1,111.7
+May-04,Canada,"Meat, fish and dairy products",v1574569,1.1,113.3
+Jun-04,Canada,"Meat, fish and dairy products",v1574569,1.1,112.6
+Jul-04,Canada,"Meat, fish and dairy products",v1574569,1.1,113.1
+Aug-04,Canada,"Meat, fish and dairy products",v1574569,1.1,112
+Sep-04,Canada,"Meat, fish and dairy products",v1574569,1.1,108
+Oct-04,Canada,"Meat, fish and dairy products",v1574569,1.1,107.6
+Nov-04,Canada,"Meat, fish and dairy products",v1574569,1.1,105.8
+Dec-04,Canada,"Meat, fish and dairy products",v1574569,1.1,106.6
+Jan-05,Canada,"Meat, fish and dairy products",v1574569,1.1,107.2
+Feb-05,Canada,"Meat, fish and dairy products",v1574569,1.1,108.6
+Mar-05,Canada,"Meat, fish and dairy products",v1574569,1.1,108.6
+Apr-05,Canada,"Meat, fish and dairy products",v1574569,1.1,107.8
+May-05,Canada,"Meat, fish and dairy products",v1574569,1.1,108.6
+Jun-05,Canada,"Meat, fish and dairy products",v1574569,1.1,106
+Jul-05,Canada,"Meat, fish and dairy products",v1574569,1.1,105.8
+Aug-05,Canada,"Meat, fish and dairy products",v1574569,1.1,107.3
+Sep-05,Canada,"Meat, fish and dairy products",v1574569,1.1,106.8
+Oct-05,Canada,"Meat, fish and dairy products",v1574569,1.1,106.4
+Nov-05,Canada,"Meat, fish and dairy products",v1574569,1.1,106.1
+Dec-05,Canada,"Meat, fish and dairy products",v1574569,1.1,106.5
+Jan-06,Canada,"Meat, fish and dairy products",v1574569,1.1,106
+Feb-06,Canada,"Meat, fish and dairy products",v1574569,1.1,106
+Mar-06,Canada,"Meat, fish and dairy products",v1574569,1.1,106.3
+Apr-06,Canada,"Meat, fish and dairy products",v1574569,1.1,105.8
+May-06,Canada,"Meat, fish and dairy products",v1574569,1.1,106.5
+Jun-06,Canada,"Meat, fish and dairy products",v1574569,1.1,107
+Jul-06,Canada,"Meat, fish and dairy products",v1574569,1.1,109
+Aug-06,Canada,"Meat, fish and dairy products",v1574569,1.1,107.9
+Sep-06,Canada,"Meat, fish and dairy products",v1574569,1.1,109
+Oct-06,Canada,"Meat, fish and dairy products",v1574569,1.1,107.4
+Nov-06,Canada,"Meat, fish and dairy products",v1574569,1.1,107.7
+Dec-06,Canada,"Meat, fish and dairy products",v1574569,1.1,108.1
+Jan-07,Canada,"Meat, fish and dairy products",v1574569,1.1,109
+Feb-07,Canada,"Meat, fish and dairy products",v1574569,1.1,111
+Mar-07,Canada,"Meat, fish and dairy products",v1574569,1.1,111.6
+Apr-07,Canada,"Meat, fish and dairy products",v1574569,1.1,112
+May-07,Canada,"Meat, fish and dairy products",v1574569,1.1,112.1
+Jun-07,Canada,"Meat, fish and dairy products",v1574569,1.1,111.2
+Jul-07,Canada,"Meat, fish and dairy products",v1574569,1.1,111.4
+Aug-07,Canada,"Meat, fish and dairy products",v1574569,1.1,110.2
+Sep-07,Canada,"Meat, fish and dairy products",v1574569,1.1,109.3
+Oct-07,Canada,"Meat, fish and dairy products",v1574569,1.1,107.1
+Nov-07,Canada,"Meat, fish and dairy products",v1574569,1.1,106.9
+Dec-07,Canada,"Meat, fish and dairy products",v1574569,1.1,108.1
+Jan-08,Canada,"Meat, fish and dairy products",v1574569,1.1,108.2
+Feb-08,Canada,"Meat, fish and dairy products",v1574569,1.1,108.4
+Mar-08,Canada,"Meat, fish and dairy products",v1574569,1.1,109.2
+Apr-08,Canada,"Meat, fish and dairy products",v1574569,1.1,109.5
+May-08,Canada,"Meat, fish and dairy products",v1574569,1.1,111.2
+Jun-08,Canada,"Meat, fish and dairy products",v1574569,1.1,112
+Jul-08,Canada,"Meat, fish and dairy products",v1574569,1.1,113.2
+Aug-08,Canada,"Meat, fish and dairy products",v1574569,1.1,114.7
+Sep-08,Canada,"Meat, fish and dairy products",v1574569,1.1,113.1
+Oct-08,Canada,"Meat, fish and dairy products",v1574569,1.1,112.9
+Nov-08,Canada,"Meat, fish and dairy products",v1574569,1.1,113.1
+Dec-08,Canada,"Meat, fish and dairy products",v1574569,1.1,112.9
+Jan-09,Canada,"Meat, fish and dairy products",v1574569,1.1,113
+Feb-09,Canada,"Meat, fish and dairy products",v1574569,1.1,113.2
+Mar-09,Canada,"Meat, fish and dairy products",v1574569,1.1,114.5
+Apr-09,Canada,"Meat, fish and dairy products",v1574569,1.1,114.9
+May-09,Canada,"Meat, fish and dairy products",v1574569,1.1,113.5
+Jun-09,Canada,"Meat, fish and dairy products",v1574569,1.1,113
+Jul-09,Canada,"Meat, fish and dairy products",v1574569,1.1,112.8
+Aug-09,Canada,"Meat, fish and dairy products",v1574569,1.1,112.7
+Sep-09,Canada,"Meat, fish and dairy products",v1574569,1.1,112.4
+Oct-09,Canada,"Meat, fish and dairy products",v1574569,1.1,111.8
+Nov-09,Canada,"Meat, fish and dairy products",v1574569,1.1,112.3
+Dec-09,Canada,"Meat, fish and dairy products",v1574569,1.1,112
+Jan-10,Canada,"Meat, fish and dairy products",v1574569,1.1,111.8
+Feb-10,Canada,"Meat, fish and dairy products",v1574569,1.1,112.2
+Mar-10,Canada,"Meat, fish and dairy products",v1574569,1.1,112.7
+Apr-10,Canada,"Meat, fish and dairy products",v1574569,1.1,113.5
+May-10,Canada,"Meat, fish and dairy products",v1574569,1.1,114
+Jun-10,Canada,"Meat, fish and dairy products",v1574569,1.1,113.3
+Jul-10,Canada,"Meat, fish and dairy products",v1574569,1.1,113.1
+Jan-81,Canada,Meat products,v1574570,1.2,68.1
+Feb-81,Canada,Meat products,v1574570,1.2,67.1
+Mar-81,Canada,Meat products,v1574570,1.2,66.2
+Apr-81,Canada,Meat products,v1574570,1.2,66.9
+May-81,Canada,Meat products,v1574570,1.2,67.2
+Jun-81,Canada,Meat products,v1574570,1.2,69.8
+Jul-81,Canada,Meat products,v1574570,1.2,70.6
+Aug-81,Canada,Meat products,v1574570,1.2,71.3
+Sep-81,Canada,Meat products,v1574570,1.2,71
+Oct-81,Canada,Meat products,v1574570,1.2,70.6
+Nov-81,Canada,Meat products,v1574570,1.2,68.8
+Dec-81,Canada,Meat products,v1574570,1.2,67.9
+Jan-82,Canada,Meat products,v1574570,1.2,66.8
+Feb-82,Canada,Meat products,v1574570,1.2,68
+Mar-82,Canada,Meat products,v1574570,1.2,68.8
+Apr-82,Canada,Meat products,v1574570,1.2,71.9
+May-82,Canada,Meat products,v1574570,1.2,76.2
+Jun-82,Canada,Meat products,v1574570,1.2,76.9
+Jul-82,Canada,Meat products,v1574570,1.2,76.6
+Aug-82,Canada,Meat products,v1574570,1.2,76.2
+Sep-82,Canada,Meat products,v1574570,1.2,75.7
+Oct-82,Canada,Meat products,v1574570,1.2,73.6
+Nov-82,Canada,Meat products,v1574570,1.2,71.6
+Dec-82,Canada,Meat products,v1574570,1.2,71.1
+Jan-83,Canada,Meat products,v1574570,1.2,71.1
+Feb-83,Canada,Meat products,v1574570,1.2,73
+Mar-83,Canada,Meat products,v1574570,1.2,72.1
+Apr-83,Canada,Meat products,v1574570,1.2,72.7
+May-83,Canada,Meat products,v1574570,1.2,72.6
+Jun-83,Canada,Meat products,v1574570,1.2,72.6
+Jul-83,Canada,Meat products,v1574570,1.2,71.5
+Aug-83,Canada,Meat products,v1574570,1.2,71.9
+Sep-83,Canada,Meat products,v1574570,1.2,71.7
+Oct-83,Canada,Meat products,v1574570,1.2,70.1
+Nov-83,Canada,Meat products,v1574570,1.2,70
+Dec-83,Canada,Meat products,v1574570,1.2,71.6
+Jan-84,Canada,Meat products,v1574570,1.2,73
+Feb-84,Canada,Meat products,v1574570,1.2,73.4
+Mar-84,Canada,Meat products,v1574570,1.2,74.2
+Apr-84,Canada,Meat products,v1574570,1.2,75.4
+May-84,Canada,Meat products,v1574570,1.2,76
+Jun-84,Canada,Meat products,v1574570,1.2,76.8
+Jul-84,Canada,Meat products,v1574570,1.2,77.8
+Aug-84,Canada,Meat products,v1574570,1.2,78.5
+Sep-84,Canada,Meat products,v1574570,1.2,77
+Oct-84,Canada,Meat products,v1574570,1.2,74.8
+Nov-84,Canada,Meat products,v1574570,1.2,75.4
+Dec-84,Canada,Meat products,v1574570,1.2,75.9
+Jan-85,Canada,Meat products,v1574570,1.2,75.3
+Feb-85,Canada,Meat products,v1574570,1.2,76
+Mar-85,Canada,Meat products,v1574570,1.2,76
+Apr-85,Canada,Meat products,v1574570,1.2,73.6
+May-85,Canada,Meat products,v1574570,1.2,74
+Jun-85,Canada,Meat products,v1574570,1.2,74.7
+Jul-85,Canada,Meat products,v1574570,1.2,75.4
+Aug-85,Canada,Meat products,v1574570,1.2,73.6
+Sep-85,Canada,Meat products,v1574570,1.2,72.7
+Oct-85,Canada,Meat products,v1574570,1.2,73.8
+Nov-85,Canada,Meat products,v1574570,1.2,75.5
+Dec-85,Canada,Meat products,v1574570,1.2,76.8
+Jan-86,Canada,Meat products,v1574570,1.2,75.5
+Feb-86,Canada,Meat products,v1574570,1.2,73.4
+Mar-86,Canada,Meat products,v1574570,1.2,73.2
+Apr-86,Canada,Meat products,v1574570,1.2,73.1
+May-86,Canada,Meat products,v1574570,1.2,73.4
+Jun-86,Canada,Meat products,v1574570,1.2,76.2
+Jul-86,Canada,Meat products,v1574570,1.2,79.8
+Aug-86,Canada,Meat products,v1574570,1.2,82.8
+Sep-86,Canada,Meat products,v1574570,1.2,83.3
+Oct-86,Canada,Meat products,v1574570,1.2,82.3
+Nov-86,Canada,Meat products,v1574570,1.2,82.8
+Dec-86,Canada,Meat products,v1574570,1.2,81.9
+Jan-87,Canada,Meat products,v1574570,1.2,79.8
+Feb-87,Canada,Meat products,v1574570,1.2,78.1
+Mar-87,Canada,Meat products,v1574570,1.2,78.3
+Apr-87,Canada,Meat products,v1574570,1.2,78.8
+May-87,Canada,Meat products,v1574570,1.2,81.9
+Jun-87,Canada,Meat products,v1574570,1.2,82.8
+Jul-87,Canada,Meat products,v1574570,1.2,83.1
+Aug-87,Canada,Meat products,v1574570,1.2,82.9
+Sep-87,Canada,Meat products,v1574570,1.2,83.1
+Oct-87,Canada,Meat products,v1574570,1.2,81.4
+Nov-87,Canada,Meat products,v1574570,1.2,80
+Dec-87,Canada,Meat products,v1574570,1.2,79.5
+Jan-88,Canada,Meat products,v1574570,1.2,78.9
+Feb-88,Canada,Meat products,v1574570,1.2,79.2
+Mar-88,Canada,Meat products,v1574570,1.2,78.8
+Apr-88,Canada,Meat products,v1574570,1.2,79.4
+May-88,Canada,Meat products,v1574570,1.2,79.9
