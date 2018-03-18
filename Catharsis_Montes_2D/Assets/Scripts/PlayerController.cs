@@ -16,12 +16,14 @@ public class PlayerController : MonoBehaviour {
 
 	public static PlayerController instance;
 
-	float jumpForce = 10f;
-	float runningSpeed = 5.5f;
+	float jumpForce = 9.5f;
+	float runningSpeed = 6f;
+	public int collectedCoins = 0;
 	public Animator animator;//Used to change character Animation
+
 	Vector3 startingPosition;//Plots position on game grid
 	Rigidbody2D rigidBody;//rigidbody instance
-	PlayerObject player = new PlayerObject();
+	PlayerObject player;
 	//int standings = 75;
 	//List<PlayerObject> oldScores = new List<PlayerObject>();
 
@@ -29,13 +31,12 @@ public class PlayerController : MonoBehaviour {
 		instance = this;
 		rigidBody = GetComponent<Rigidbody2D>();
 		startingPosition = this.transform.position;
+
 		player = new PlayerObject();
 		//oldScores.AddRange(player.ReturnObjects ());
 	}
 		
 	public void StartGame() {
-
-
 		//Begin by generating the new level and setting player in the alive animation
 		animator.SetBool("isAlive", true);
 		LevelGenerator.instance.GenerateInitialPieces ();
@@ -51,15 +52,9 @@ public class PlayerController : MonoBehaviour {
 */
 		//Check to see if GameManager is running in the inGame state.
 		if (GameManager.instance.currentGameState == GameState.inGame) {
-			if (Input.GetKeyDown (KeyCode.Space)) {//Check for player to jump
-				if(rigidBody.velocity.x == 0 && Input.GetKeyDown(KeyCode.Space)){
-					Kill ();
-				}
+			if (Input.GetMouseButtonDown(0)) {//Check for player to jump
 				Jump ();
-			}//Set player into running motion
-			//if (Input.GetKey (KeyCode.D) && rigidBody.velocity.x < runningSpeed && isGrounded ()) {
-			//	rigidBody.velocity = new Vector2 (runningSpeed, rigidBody.velocity.y);
-			//}
+			}
 			//Check each frame to make sure character is grounded and keep them running
 			animator.SetBool ("isGrounded", isGrounded ());
 		}
@@ -67,16 +62,15 @@ public class PlayerController : MonoBehaviour {
 
 	void FixedUpdate() {
 
-		Debug.Log (player.getPoints());
-		
 		if(animator.GetBool("isAlive") == true)
 		player.setPoints ((this.transform.position.x - startingPosition.x));
-		
+
 		//To turn on auto-run so player has to worry about jumping only
-		if (rigidBody.velocity.x < runningSpeed && isGrounded()) {
-				rigidBody.velocity = new Vector2(runningSpeed, rigidBody.velocity.y);
+		if (GameManager.instance.currentGameState == GameState.inGame) {
+			if (rigidBody.velocity.x < runningSpeed) {
+				rigidBody.velocity = new Vector2 (runningSpeed, rigidBody.velocity.y);
 			}
-			
+		}	
 	}
 
 	void Jump() {
@@ -107,26 +101,20 @@ public class PlayerController : MonoBehaviour {
 	}
 	//Check for when character runs into collision zone
 	void OnCollisionEnter(Collision other) {
-		if (animator.GetBool ("isAlive") == true) {
-			if (other.gameObject.tag == "Enemy") {
-				Kill ();//Kill the character
-			}
+		if (other.gameObject.tag == "Enemy") {
+			Kill ();//Kill the character
 		}
 	}
 		
 
 	public void Kill() {//Run the death animation and change GameManagaer to gameOver scene
-		if(animator.GetBool("isAlive") == true){
-			player.WriteHighScore ();
-			player.FillHighScores ();
-		}
+		player.setPoints(player.getPoints() + collectedCoins);
+		Debug.Log (player.getPoints ());
+		player.WriteHighScore ();
+		player.FillHighScores ();
 		animator.SetBool("isAlive", false);
 		GameManager.instance.GameOver();
-		/*check if highscore save if it is
-		if (PlayerPrefs.GetFloat("highscore", 0) < this.GetDistance()) {
-			//save new highscore
-			PlayerPrefs.SetFloat("highscore", this.GetDistance());
-		}*/
+
 	}
 
 
@@ -135,6 +123,12 @@ public class PlayerController : MonoBehaviour {
 		                                          new Vector2(this.transform.position.x, 0));
 		return traveledDistance;	                                                                               
 	}
+
+	public void CollectedCoin() {
+		//To add coins to player total
+		collectedCoins ++;
+	}
+
 
 
 }

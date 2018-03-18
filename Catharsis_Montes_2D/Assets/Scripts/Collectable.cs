@@ -22,6 +22,7 @@ public class Collectable : MonoBehaviour {
 		isCollected = true;
 		Hide();
 		GameManager.instance.CollectedCoin();
+		PlayerController.instance.CollectedCoin ();
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {

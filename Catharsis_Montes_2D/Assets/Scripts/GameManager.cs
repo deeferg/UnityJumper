@@ -6,7 +6,9 @@ Script : GameManager
 
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.SceneManagement;
+using System;
 
 public enum GameState {
 	menu,
@@ -25,24 +27,31 @@ public class GameManager : MonoBehaviour {
 	public Canvas gameOverCanvas;
 	public Canvas highScoreCanvas;
 
+	PlayerObject player;
+	List <PlayerObject> highScores;
 	public int collectedCoins = 0;
+
 
 	void Awake() {
 		instance = this;
+		//highScores = player.ReturnObjects ();
 	}
 
 	void Start() {
-		currentGameState = GameState.inGame;
+		currentGameState = GameState.menu;
 	}
 	
 	//called to start the game
 	public void StartGame() {
+		//player = new PlayerObject ();
+		//highScores = player.ReturnObjects ();
+		//PlayerController.instance.StartGame ();
 		SetGameState(GameState.inGame);
-		PlayerController.instance.StartGame ();
 	}
 	
 	//called when player die
 	public void GameOver() {
+		//highScores = player.ReturnObjects ();
 		SetGameState(GameState.gameOver);
 	}
 
@@ -93,12 +102,8 @@ public class GameManager : MonoBehaviour {
 		currentGameState = newGameState;
 	}
 
+	void Update(){
 
-	void Update() {
-		//Check each second to begin with to check if user begins new game with S key
-		if (Input.GetButtonDown("s")) {
-			StartGame();
-		}
 	}
 
 
@@ -106,6 +111,12 @@ public class GameManager : MonoBehaviour {
 		//To add coins to player total
 		collectedCoins ++;
 	}
+
+	public void Quit(){
+		Application.Quit ();
+		Debug.Log ("Quit button is running");
+	}
+
 
 }
 
