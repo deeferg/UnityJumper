@@ -127,7 +127,7 @@ public class PlayerObject {
 		//of the name of the commodity in the list, and the value of the commodity.
 		//It has taken a shortened version, at the behest of Professor Stanley Pieda
 		//when asked if I needed to keep the 100K+ file or revise it slightly.
-		/*reader = new CsvFileReader ("000000.csv");
+	/*	reader = new CsvFileReader ("000000.csv");
 
 		while(!reader.EndOfStream){
 			
@@ -215,6 +215,13 @@ public class PlayerObject {
 		reader.Close ();
 
 		return pastPlayers;
+	
+	}
+
+	public PlayerObject getTopPlayer(){
+	
+		List <PlayerObject> bestPlayers = ReturnObjects ();
+		return bestPlayers[0];
 	
 	}
 

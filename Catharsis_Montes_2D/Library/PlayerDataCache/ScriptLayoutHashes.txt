@@ -214,7 +214,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
-4ffd310d387860bd9bbf915027cba805 Assembly-CSharp.dll:.PlayerController
+09ff3391fea864588536df51ec907ee7 Assembly-CSharp.dll:.PlayerController
 8c5b81041f452cb68d8f83d90a7d09bb Assembly-CSharp.dll:.LevelPiece
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 b02b0f6fb207b34458a1f9bee477359d Assembly-CSharp.dll:.ViewInGame
@@ -290,4 +290,5 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QuitButton
+5a5c2c5ba4ea2258f3bff1864d531665 Assembly-CSharp.dll:.ViewHighScore
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InputName

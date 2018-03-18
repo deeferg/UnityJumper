@@ -5,6 +5,7 @@ Script : PlayerController
 */
 
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 using ReadWriteCsv;
@@ -19,25 +20,27 @@ public class PlayerController : MonoBehaviour {
 	float jumpForce = 9.5f;
 	float runningSpeed = 6f;
 	public int collectedCoins = 0;
+	public string playerName = "Edgar";
 	public Animator animator;//Used to change character Animation
-
+	public GameObject canvas;
+	public Text countCoins;
+	PlayerObject bestPlayer;
 	Vector3 startingPosition;//Plots position on game grid
 	Rigidbody2D rigidBody;//rigidbody instance
 	PlayerObject player;
-	//int standings = 75;
-	//List<PlayerObject> oldScores = new List<PlayerObject>();
 
 	void Awake() {
 		instance = this;
 		rigidBody = GetComponent<Rigidbody2D>();
 		startingPosition = this.transform.position;
-
-		player = new PlayerObject();
+		player = new PlayerObject(playerName);
 		//oldScores.AddRange(player.ReturnObjects ());
 	}
 		
 	public void StartGame() {
 		//Begin by generating the new level and setting player in the alive animation
+		player.setPlayerName(playerName);
+		setCountText();
 		animator.SetBool("isAlive", true);
 		LevelGenerator.instance.GenerateInitialPieces ();
 		this.transform.position = startingPosition;
@@ -109,9 +112,12 @@ public class PlayerController : MonoBehaviour {
 
 	public void Kill() {//Run the death animation and change GameManagaer to gameOver scene
 		player.setPoints(player.getPoints() + collectedCoins);
-		Debug.Log (player.getPoints ());
-		player.WriteHighScore ();
-		player.FillHighScores ();
+
+		if (animator.GetBool ("isAlive") == true) {
+			Debug.Log (player.getPoints ());
+			player.WriteHighScore ();
+			player.FillHighScores ();
+		}
 		animator.SetBool("isAlive", false);
 		GameManager.instance.GameOver();
 
@@ -127,8 +133,17 @@ public class PlayerController : MonoBehaviour {
 	public void CollectedCoin() {
 		//To add coins to player total
 		collectedCoins ++;
+		setCountText ();
 	}
 
+	void setCountText(){
+
+		countCoins.text = collectedCoins.ToString ();
+	}
+
+	public void setPlayerName(string playerName){
+		player.setPlayerName (playerName);
+	}
 
 
 }
