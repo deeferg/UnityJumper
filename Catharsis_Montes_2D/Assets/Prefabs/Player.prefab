@@ -105,7 +105,7 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 1.8}
+  m_Offset: {x: -0.2, y: 1.8}
   m_Size: {x: 0.41, y: 3.34}
   m_Direction: 0
 --- !u!95 &95777273267052734
@@ -136,9 +136,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dc122fb000134971818459927616731, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 13
-  runningSpeed: 6
+  collectedCoins: 0
+  playerName: Edgar
   animator: {fileID: 95777273267052734}
+  canvas: {fileID: 0}
+  countCoins: {fileID: 0}
   groundLayer:
     serializedVersion: 2
     m_Bits: 256

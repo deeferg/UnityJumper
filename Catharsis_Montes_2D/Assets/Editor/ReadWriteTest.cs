@@ -12,13 +12,16 @@ public class ReadWriteTest {
 
 	[Test]//Print 100 records onto a csv file
 	public void WriteTest(){
-		using (CsvFileWriter writer = new CsvFileWriter ("000000.csv")) {
+		using (CsvFileWriter writer = new CsvFileWriter ("000002.csv")) {
 			for (int i = 0; i < 100; i++) {
 				CsvRow row = new CsvRow ();
-				for (int j = 0; j < 5; j++)
-					row.Add (string.Format ("Column{0}", j));
+				for (int j = 0; j < 5; j++) {
+					row.Add (string.Format ("John Ferguson{0}", j));
+
+				}
 				writer.WriteRow (row);
 			}
+			Console.Write ("Tested by John Ferguson");
 		}
 	
 	}
