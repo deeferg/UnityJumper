@@ -27,7 +27,6 @@ public class ViewHighScore : MonoBehaviour {
 			for (int i = 0; i < 10; i++) {
 				topScores [i].text = "Player: " + topPlayers [i].getPlayerName ().ToString () + "      Score : " + topPlayers [i].getPoints ().ToString ();
 			}
-
 		}
 	}
 }

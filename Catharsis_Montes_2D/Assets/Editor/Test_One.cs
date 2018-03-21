@@ -16,7 +16,6 @@ public class Test_One{
 	public void CheckPlayerDoesntStartGrounded() {
 		GameObject obj = new GameObject ();
 		var controller = obj.AddComponent<PlayerController>();
-
 		Assert.False (controller.isGrounded());
 	}
 		

@@ -43,6 +43,7 @@ public class GameManager : MonoBehaviour {
 	public Canvas inGameCanvas;
 	public Canvas gameOverCanvas;
 	public Canvas highScoreCanvas;
+	ThreadReader reader;
 
 	public int collectedCoins = 0;
 
@@ -57,6 +58,8 @@ public class GameManager : MonoBehaviour {
 	*/
 	void Start() {
 		currentGameState = GameState.menu;
+		reader = new ThreadReader ();
+		reader.Start ();
 	}
 	
 	/* <summary>
@@ -131,6 +134,13 @@ public class GameManager : MonoBehaviour {
 		currentGameState = newGameState;
 	}
 
+	void Update(){
+		if (reader != null) {
+			if (reader.Update ()) {
+				reader = null;
+			}
+		}
+	}
 
 	/* <summary>
 	 * Called when user quits the application with the exit button.
